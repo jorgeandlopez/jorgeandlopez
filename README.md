@@ -17,5 +17,6 @@ Flutter & Backend Developer, Electronic Engineer with ability to work in a team,
 | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) | ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 
 ### 📊 My stats
+| Mobile | Dev Tools |
 | --- | --- |
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xM4573Rx&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xM4573Rx)](https://github.com/anuraghazra/github-readme-stats) |
