@@ -19,4 +19,4 @@ Flutter & Backend Developer, Electronic Engineer with ability to work in a team,
 ### 📊 My stats
 | Mobile | Dev Tools |
 | --- | --- |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xM4573Rx&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xM4573Rx)](https://github.com/anuraghazra/github-readme-stats) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xM4573Rx&show_icons=true&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xM4573Rx)](https://github.com/anuraghazra/github-readme-stats) |
