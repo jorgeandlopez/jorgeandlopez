@@ -6,4 +6,4 @@
 -->
 
 Flutter & Backend Developer, Electronic Engineer with ability to work in a team, knowledge in microelectronics, automation, and robotics.
-
+⚙️
